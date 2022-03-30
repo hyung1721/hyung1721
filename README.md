@@ -17,6 +17,9 @@
 ![](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
+## 📓 History
+- 2018.03 ~ 2022.02 | KAIST CS & Mathematics (currently taking a leave of absence)   
+
 <!--
 **hyung1721/hyung1721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
