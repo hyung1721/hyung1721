@@ -17,10 +17,10 @@
 ![](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
-## 📓 History
+## 🌟 History
 - **KAIST CS & Mathematics**  (2018.03 ~ 2022.02, currently taking a leave of absence)   
 
-## 🖥️ Career
+## ✨ Career
 - **Development Intern** at Comotomo Crazing Lab. (2021.03 ~ 2021.08)   
 <!-- - **ML Engineer** at 42MARU (2022.04 ~ Now)     -->
 <!--
