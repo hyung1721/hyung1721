@@ -18,8 +18,11 @@
 ![](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
 ## 📓 History
-- 2018.03 ~ 2022.02 | KAIST CS & Mathematics (currently taking a leave of absence)   
+- **KAIST CS & Mathematics**  (2018.03 ~ 2022.02, currently taking a leave of absence)   
 
+## 🖥️ Career
+- **Development Intern** at Comotomo Crazing Lab. (2021.03 ~ 2021.08)   
+<!-- - **ML Engineer** at 42MARU (2022.04 ~ Now)     -->
 <!--
 **hyung1721/hyung1721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
