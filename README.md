@@ -22,7 +22,7 @@
 
 ## ✨ Career
 - **Development Intern** at Comotomo Crazing Lab. (2021.03 ~ 2021.08)   
-<!-- - **ML Engineer** at 42MARU (2022.04 ~ Now)     -->
+- **QA Engineer** at 42MARU (2022.04 ~ Now)    
 <!--
 **hyung1721/hyung1721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
