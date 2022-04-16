@@ -10,7 +10,6 @@
 ![](https://img.shields.io/badge/ISAAC%20SDK-76B900?style=flat-square&logo=NVIDIA&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualstudioCode&logoColor=white)
-![](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white) 
 ![](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white)
 ![](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)
 <br>
