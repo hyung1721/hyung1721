@@ -19,8 +19,9 @@
 ![](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
 ## 📖 Now I'm Studying... 
-- **TypeScript & React** for Front-End
-- **FastAPI & MongoDB** for Back-End
+- **Full-Stack Development**
+  - **TypeScript & React** for Front-End
+  - **FastAPI & MongoDB** for Back-End
 
 ## 🌟 History
 - **KAIST CS & Mathematics**  (2018.03 ~ 2022.02, currently taking a leave of absence)   
