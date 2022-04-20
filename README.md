@@ -20,8 +20,8 @@
 
 ## 📖 Now I'm Studying... 
 - **Full-Stack Development**
-  - **TypeScript & React** for Front-End
-  - **FastAPI & MongoDB** for Back-End
+  - **For Front-End**  ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) 
+  - **For Back-End**   ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white) 
 
 ## 🌟 History
 - **KAIST CS & Mathematics**  (2018.03 ~ 2022.02, currently taking a leave of absence)   
