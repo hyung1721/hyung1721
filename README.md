@@ -38,6 +38,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=JiraSoftware&logoColor=white" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyung1721&show_icons=true" />
+</p>
 
 ## 🌟 Education
 - **KAIST CS & Mathematics**  (2018.03 ~ 2022.02, currently taking a leave of absence)   
