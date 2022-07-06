@@ -1,9 +1,8 @@
 <h2 align="center"> 💪 My Stacks </h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />
@@ -24,16 +23,17 @@
 </p>
 <h2 align="center"> 📖 Now I'm Studying... </h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=MicrosoftAzure&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=ElasticSearch&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=JiraSoftware&logoColor=white" />
