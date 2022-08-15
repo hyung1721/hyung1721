@@ -35,9 +35,9 @@
   <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=ElasticSearch&logoColor=white" />
 </p>
 
-## 🌟 Education
-- **KAIST CS & Mathematics**  (2018.03 ~ 2022.02, currently taking a leave of absence)   
+<h2 align="center"> 🌟 Education </h2>
+<p align="center"> <b>KAIST CS & Mathematics</b>  (2018.03 ~ 2022.02, currently taking a leave of absence)</p>   
 
-## ✨ Career
-- **Development Intern** @ Comotomo Crazing Lab. (2021.03 ~ 2021.08)   
-- **Developer in Chatbot Team** [@ 42MARU](https://www.42maru.ai/) (2022.04 ~ Now)    
+<h2 align="center"> ✨ Career </h2>
+<p align="center"> <b>Development Intern</b> @ Comotomo Crazing Lab. (2021.03 ~ 2021.08)</p>
+<p align="center"> <b>Developer in Chatbot Team</b> [@ 42MARU](https://www.42maru.ai/) (2022.04 ~ Now)</p>
