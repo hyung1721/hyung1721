@@ -40,4 +40,4 @@
 
 <h2 align="center"> ✨ Career </h2>
 <p align="center"> <b>Development Intern</b> @ Comotomo Crazing Lab. (2021.03 ~ 2021.08)</p>
-<p align="center"> <b>Developer in Chatbot Team</b><a href="https://www.42maru.ai/">@ 42MARU</a> (2022.04 ~ Now)</p>
+<p align="center"> <b>Developer in Chatbot Team</b> <a href="https://www.42maru.ai/">@ 42MARU</a> (2022.04 ~ Now)</p>
