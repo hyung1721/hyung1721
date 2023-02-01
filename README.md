@@ -6,8 +6,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit%2Dlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" />
@@ -22,17 +22,11 @@
 </p>
 <h2 align="center"> 📖 Now I'm Studying... </h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=MicrosoftAzure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=ElasticSearch&logoColor=white" />
 </p>
 
 <h2 align="center"> 🌟 Education </h2>
