@@ -4,3 +4,4 @@
 <h2> Career </h2>
 <p> <b>Development Intern</b> @ Comotomo Crazing Lab. (2021.03 ~ 2021.08)</p>
 <p> <b>Developer in Chatbot Team</b> <a href="https://www.42maru.ai/">@ 42MARU</a> (2022.04 ~ 2024.03)</p>
+<p> <b>Reseacher in Teahnologies R&D Team</b> <a href="https://www.hanwhaaerospace.com/kor/index.do">@ Hanwha Aerospace</a> (2025.03 ~ )</p>
